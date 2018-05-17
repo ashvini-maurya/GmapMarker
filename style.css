@@ -5,7 +5,7 @@
 
 .wrapper {
   margin-top: 10px;
-  border: solid 1px red;
+  /* border: solid 1px red; */
   position: relative;
   width: 100%;
   margin: 0px auto;
@@ -18,7 +18,7 @@
   left: 0;
   bottom: 0;
   right: 250px;
-  border: 1px solid;
+  /* border: 1px solid; */
 }
 
 .right {
@@ -28,4 +28,18 @@
   background: white;
   width: 250px;
   height: 100vh;
+}
+
+h1 {
+  text-align: center;
+  color: green;
+}
+
+#nursery-saplings {
+  margin-left: 20px;
+}
+
+#total-quantity {
+  float: right;
+  margin-right: 20px;
 }
