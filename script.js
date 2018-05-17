@@ -87,9 +87,3 @@ function initMap() {
     })(marker, i));
   }
 }
-
-
-function myFunction() {
-  var x = document.getElementsByClassName("saplings-name");
-  x[0].innerHTML = "Hello World!";
-}
